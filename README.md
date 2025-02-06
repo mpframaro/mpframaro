@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi :3
 
-<!--
-**mpframaro/mpframaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Currently studying Artificial Intelligence and Data Science @ FCUP (Bachelor) !
+- 🗺️ Based in Porto, Portugal !
+- 🤓 Open to new projects !
 
-Here are some ideas to get you started:
+<h2></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2>
+<h3 align="center"> My Github Stats :P</h3>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpframaro&show_icons=true&locale=en&layout=compact&theme=dark" alt="mpframaro" />
+    <br/>
+    <br/>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpframaro&theme=dark" height="180em" border="1"/>
+</div>
