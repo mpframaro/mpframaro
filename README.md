@@ -5,8 +5,6 @@
 - 🤓 Open to new projects !
 
 <h2></h2>
-
-<h2></h2>
 <h3 align="center"> My Github Stats :P</h3>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpframaro&show_icons=true&locale=en&layout=compact&theme=dark" alt="mpframaro" />
