@@ -40,10 +40,27 @@
 </div>
     
 <h2></h2>
+
 <h3 align="center"> My Github Stats *-*</h3>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpframaro&show_icons=true&locale=en&layout=compact&theme=dark" alt="mpframaro" />
-    <br/>
-    <br/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpframaro&theme=dark" height="180em" border="1"/>
-</div>
+<table align="center">
+<thead>
+  <tr>
+  <th>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpframaro&hide=prs,issues&count_private=true&hide_rank=true&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight#gh-dark-mode-only">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpframaro&hide=prs,issues&count_private=true&hide_rank=true&show_icons=true&hide_border=true&theme=buefy#gh-light-mode-only">
+    </a>
+  </th>
+  <th>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpframaro&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight#gh-dark-mode-only">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpframaro&layout=compact&show_icons=true&hide_border=true&theme=buefy#gh-light-mode-only">
+    </a>
+    </th>
+  </tr>
+</thead>
+</table>
