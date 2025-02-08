@@ -50,7 +50,7 @@
 
 
 
-<!--
+
 
 <h3 align="center"> My Github Stats *-*</h3>
 <table align="center">
@@ -76,5 +76,4 @@
 </thead>
 </table>
 
--->
 
